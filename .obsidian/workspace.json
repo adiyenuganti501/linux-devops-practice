@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
-                "mode": "source",
+                "file": "DevOps-Learning- Linux/Linux/User and Group.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux permissions"
+              "title": "User and Group"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "file": "DevOps-Learning- Linux/Linux/User and Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "file": "DevOps-Learning- Linux/Linux/User and Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "file": "DevOps-Learning- Linux/Linux/User and Group.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,14 +188,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1c52089bd5829ed",
+  "active": "d0c4c3c61c4f1900",
   "lastOpenFiles": [
+    "DevOps-Learning- Linux/Linux/Linux permissions.md",
+    "README.md",
     "DevOps-Learning- Linux/Linux/VIM Commands.md",
     "DevOps-Learning- Linux/Linux/IMP Folders.md",
     "Folder structer.md",
     "DevOps-Learning- Linux/Linux/User and Group.md",
     "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
-    "DevOps-Learning- Linux/Linux/Linux permissions.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
