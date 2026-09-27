@@ -1,7 +1,7 @@
 **Users**:
- useradd : To add new user
- passwd  : To setup to users
- userdel  : To delete users
+ 1.useradd : To add new user.
+ 2.passwd  : To setup to users.
+ 3.userdel  : To delete users.
 -------------------------------------------------
 
 **Groups**:
