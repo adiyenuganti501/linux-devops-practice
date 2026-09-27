@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "706f3d4c7d9f80d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6b6968451f61fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c4c3c61c4f1900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux permissions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1695c20c4ac70095",
+    "type": "split",
+    "children": [
+      {
+        "id": "745086cd7e4615af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c52089bd5829ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e995e8b121eda5a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "63b5150af9f64ce0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bd31638fe9c2f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "556bccdefaaf7573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5790469bf245c0f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "800d120257f5b089",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2f20209e34efeb57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32ea20af04d63064",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "89e1844de6b67924",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevOps-Learning- Linux/Linux/Linux permissions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b1c52089bd5829ed",
+  "lastOpenFiles": [
+    "DevOps-Learning- Linux/Linux/VIM Commands.md",
+    "DevOps-Learning- Linux/Linux/IMP Folders.md",
+    "Folder structer.md",
+    "DevOps-Learning- Linux/Linux/User and Group.md",
+    "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+    "DevOps-Learning- Linux/Linux/Linux permissions.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 1.md",
+    "DevOps-Learning/Untitled.md",
+    "DevOps-Learning- Linux/Linux",
+    "DevOps-Learning/Linux/Linux/User And Group.md",
+    "2026-09-27.md",
+    "DevOps-Learning/Linux/Linux",
+    "Welcome.md",
+    "DevOps-Learning- Linux/Linux",
+    "Untitled",
+    "DevOps-Learning- Linux"
+  ]
+}
