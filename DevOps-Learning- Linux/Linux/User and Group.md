@@ -122,5 +122,5 @@ gpasswd -d    → Remove user from group
 VERIFY
 whoami        → Current user
 groups        → User's groups
-id            → UID, GID & group info
+id            → UID, GID & group information
 ```
