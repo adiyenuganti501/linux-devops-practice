@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+                "file": "DevOps-Learning- Linux/Linux/SSH Password  Authentication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux system monitoring"
+              "title": "SSH Password  Authentication"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,12 @@
   },
   "active": "d0c4c3c61c4f1900",
   "lastOpenFiles": [
-    "DevOps-Learning- Linux/Linux/Linux permissions.md",
-    "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
-    "DevOps-Learning- Linux/Linux/IMP Folders.md",
-    "DevOps-Learning- Linux/Linux/User and Group.md",
     "DevOps-Learning- Linux/Linux/VIM Commands.md",
+    "DevOps-Learning- Linux/Linux/SSH Password  Authentication.md",
+    "DevOps-Learning- Linux/Linux/User and Group.md",
+    "DevOps-Learning- Linux/Linux/Linux system monitoring.md",
+    "DevOps-Learning- Linux/Linux/Linux permissions.md",
+    "DevOps-Learning- Linux/Linux/IMP Folders.md",
     "README.md",
     "Folder structer.md",
     "Untitled 2.base",

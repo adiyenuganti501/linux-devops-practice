@@ -4,14 +4,14 @@
 
 The `/etc` directory contains **system and application configuration files**.
 
-|File / Directory|Purpose|
-|---|---|
-|`/etc/passwd`|Contains information about system users|
-|`/etc/shadow`|Contains password hashes and password-related information|
-|`/etc/group`|Contains information about groups|
-|`/etc/os-release`|Contains Linux distribution and OS details|
-|`/etc/ssh/sshd_config`|SSH server configuration|
-|`/home/username`|Home directory of a normal user|
+| File / Directory       | Purpose                                                   |
+| ---------------------- | --------------------------------------------------------- |
+| `/etc/passwd`          | Contains information about system users                   |
+| `/etc/shadow`          | Contains password hashes and password-related information |
+| `/etc/group`           | Contains information about groups                         |
+| `/etc/os-release`      | Contains Linux distribution and OS details                |
+| `/etc/ssh/sshd_config` | SSH server configuration                                  |
+| `/home/username`       | Home directory of a normal user                           |
 
 ### 🔍 Useful Commands
 
