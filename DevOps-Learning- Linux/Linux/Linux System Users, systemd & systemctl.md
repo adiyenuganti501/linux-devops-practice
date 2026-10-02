@@ -1,6 +1,4 @@
-# Linux System Users, systemd & systemctl
-
-## 1. System User
+# 1. System User
 
 A **system user** is a Linux account created primarily to run a service or application rather than for interactive human login.
 
@@ -248,7 +246,6 @@ Example:
 /etc/systemd/system/myapp.service
 ```
 
-The service file tells systemd:
 
 - What the service does
     
