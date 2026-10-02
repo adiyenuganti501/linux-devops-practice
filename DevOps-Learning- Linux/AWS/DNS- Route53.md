@@ -1,4 +1,5 @@
 # AWS Route 53
+DNS name  (myapp.com)-> browser cache -> OS -> OS Cache -> DNS resolver -> Root Server-> .com TLD -> GoDaddy/Hostinger NS -> A record 
 
 Route 53 = AWS DNS Service
 DNS uses port 53
