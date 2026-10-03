@@ -1,4 +1,4 @@
-# 1. System User
+	# 1. System User
 
 A **system user** is a Linux account created primarily to run a service or application rather than for interactive human login.
 
