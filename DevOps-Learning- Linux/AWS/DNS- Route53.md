@@ -124,16 +124,16 @@ Private IP
 
 # 3. DNS Record Types ⭐
 
-|Record|Purpose|
-|---|---|
-|A|Domain → IPv4|
-|AAAA|Domain → IPv6|
-|CNAME|Domain → another domain|
-|Alias|AWS resource mapping|
-|MX|Mail server|
-|TXT|Text / verification|
-|NS|Name servers|
-|SOA|Start of Authority|
+| Record | Purpose                 |
+| ------ | ----------------------- |
+| A      | Domain → IPv4           |
+| AAAA   | Domain → IPv6           |
+| CNAME  | Domain → another domain |
+| Alias  | AWS resource mapping    |
+| MX     | Mail server             |
+| TXT    | Text / verification     |
+| NS     | Name servers            |
+| SOA    | Start of Authority      |
 
 ### A Record
 
