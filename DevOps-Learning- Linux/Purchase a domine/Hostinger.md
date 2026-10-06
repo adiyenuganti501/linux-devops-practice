@@ -90,15 +90,15 @@ IP Address
 
 # 📌 Important DNS Components
 
-|Component|Responsibility|
-|---|---|
-|Browser Cache|Stores recently resolved DNS information|
-|OS DNS Cache|Stores DNS results locally|
-|DNS Resolver|Performs DNS lookup on behalf of the client|
-|Root DNS|Directs resolver to the appropriate TLD|
-|TLD DNS|Directs resolver to authoritative nameservers|
-|Authoritative DNS|Stores the actual DNS records|
-|A Record|Maps hostname → IPv4 address|
+| Component         | Responsibility                                |
+| ----------------- | --------------------------------------------- |
+| Browser Cache     | Stores recently resolved DNS information      |
+| OS DNS Cache      | Stores DNS results locally                    |
+| DNS Resolver      | Performs DNS lookup on behalf of the client   |
+| Root DNS          | Directs resolver to the appropriate TLD       |
+| TLD DNS           | Directs resolver to authoritative nameservers |
+| Authoritative DNS | Stores the actual DNS records                 |
+| A Record          | Maps hostname → IPv4 address                  |
 
 ---
 
