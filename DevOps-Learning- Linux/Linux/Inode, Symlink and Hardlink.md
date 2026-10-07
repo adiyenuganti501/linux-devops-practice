@@ -28,7 +28,6 @@ now we can access the content like below
 cat sl.txt
 
 
-
 Backword compatability
 
 RHEL-8= dnf  (Changed package installer from yum to dnf in RHEL-8)
@@ -38,5 +37,26 @@ comanyes will affect due to this change.
 here yum is symlink/softlink to dnf
 ![[Pasted image 20261007130349.png]]
 this we we can achieve update from yum to dnf
+
+
+Hardlink
+A **Hard Link is not a shortcut**.
+
+It is another name/reference to the **same file data**.
+
+### Important Points
+
+- Hard link and original file have the **same Inode number**.
+- Both point to the **same data**.
+- If the original file is deleted, the hard link **still works**.
+- The data is available through the hard link.
+- Hard links are useful when we need another reference to the same file data.
+- applicable for only files not folders
+
+/root/aws/ec2/sg.txt
+
+ln /root/aws/ec2/sg.txt sgroup.txt
+
+
 
 
