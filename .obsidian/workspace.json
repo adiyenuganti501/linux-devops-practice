@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps-Learning- Linux/Linux/Networking.md",
+                "file": "DevOps-Learning- Linux/Linux/Inode, Symlink and Hardlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "Inode, Symlink and Hardlink"
             }
           }
         ],
@@ -205,8 +205,12 @@
   },
   "active": "03e4ad1f641db53f",
   "lastOpenFiles": [
-    "DevOps-Learning- Linux/Purchase a domine/Hostinger.md",
+    "Pasted image 20261007130349.png",
+    "Pasted image 20261007125656.png",
+    "Pasted image 20261007124512.png",
     "DevOps-Learning- Linux/Linux/Networking.md",
+    "DevOps-Learning- Linux/Linux/Inode, Symlink and Hardlink.md",
+    "DevOps-Learning- Linux/Purchase a domine/Hostinger.md",
     "DevOps-Learning- Linux/AWS/DNS- Route53.md",
     "DevOps-Learning- Linux/Purchase a domine",
     "DevOps-Learning- Linux/Linux/Linux System Users, systemd & systemctl.md",
